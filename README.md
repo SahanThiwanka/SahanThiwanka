@@ -43,7 +43,7 @@
 
 <a href="https://twitter.com/sahanthiwanka51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahanthiwanka51" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/linkedin.com/in/sahan-thiwanka-4a753421a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sahan-thiwanka-4a753421a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sahan-thiwanka-4a753421a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sahan-thiwanka" height="30" width="40" /></a>
 
 <a href="https://fb.com/sahan thiwanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahan thiwanka" height="30" width="40" /></a>
 
